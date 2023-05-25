@@ -1,0 +1,19 @@
+{
+  "name": "winscrypt",
+  "version": "1.0.0",
+  "description": "badly made encryption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emir4169/winscrypt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emir4169/winscrypt/issues"
+  },
+  "homepage": "https://github.com/emir4169/winscrypt#readme"
+}
